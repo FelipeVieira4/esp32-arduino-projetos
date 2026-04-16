@@ -2,7 +2,7 @@
 
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-C%2FC%2B%2B-green)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-em%20Finalizado-green)
 
 Repositório dedicado ao desenvolvimento de projetos utilizando o ESP32 com a plataforma Arduino.  
 O objetivo é centralizar exemplos práticos, testes de sensores, automações e integrações com IoT, facilitando aprendizado, prototipagem e reutilização de código.
